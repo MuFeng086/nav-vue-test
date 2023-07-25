@@ -12,7 +12,7 @@ hero:
   actions:
     - text: 茂茂物语
       link: https://notes.fe-mm.com
-    - text: 前端导航
+    - text: 前端导航【测试】
       link: /nav/
       theme: alt
     - text: mmPlayer
